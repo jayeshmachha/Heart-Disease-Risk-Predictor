@@ -1,8 +1,16 @@
-# ❤️ Heart Disease Risk Prediction
+<div align="center">
+
+# ❤️ Heart Disease Risk Predictor
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange.svg)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/heart-disease-prediction)](https://github.com/yourusername/heart-disease-prediction/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/heart-disease-prediction)](https://github.com/yourusername/heart-disease-prediction/network)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+</div>
 
 ## 🎯 Overview
 
@@ -89,9 +97,4 @@ After training and evaluating multiple algorithms on 918 patient records:
 - Python 3.9+
 - pip package manager
 
-### Installation (3 Steps)
 
-**1. Clone the repository**
-```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
-cd heart-disease-prediction
